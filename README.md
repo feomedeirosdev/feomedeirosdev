@@ -37,7 +37,7 @@
 - 💻 HTML5 – iPED (2012, 100h)
 - 💻 Programação em PHP – UTD (2013, 80h)
 - 💻 Web Master – ABED (2013, 30h)
-- 🐍 Minicurso “Física e Python: um casamento mais que perfeito” – UFPR (2021, 15h)
+- 💻 Minicurso “Física e Python: um casamento mais que perfeito” – UFPR (2021, 15h)
 
 ---
 
@@ -49,9 +49,11 @@
 
 ---
 
-### 📫 Contato
-- 💼 [LinkedIn](https://www.linkedin.com/fabio-medeiros-708567262/)
-- 🔗 [ORCID](https://orcid.org/0000-0001-6128-2708)
+### 📫 Redes
+- 📚 [Currículo Lattes](#)
+- 💼 [LinkedIn](#)
+- 🔗 [ORCID](#)
+- 📷 [Instagram](#)  
   
 ---
 
