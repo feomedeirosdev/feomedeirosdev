@@ -51,7 +51,7 @@
 
 ### 📫 Redes
 - 📚 [Currículo Lattes](http://lattes.cnpq.br/6736276625584069)
-- 💼 [LinkedIn](https://www.linkedin.com/in/fabio-medeiros-708567262/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/fabio-medeiros-708567262)
 - 🔗 [ORCID](https://orcid.org/0000-0001-6128-2708)
 - 📷 [Instagram](#)  
   
