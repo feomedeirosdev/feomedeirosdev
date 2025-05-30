@@ -1,6 +1,6 @@
 ### Me chamo Fabio Medeiros
 
-🔬 **Doutor em Física da Matéria Condensada pela Universidade Federal do Ceará (UFC)** com transição estratégica para a área de **Ciência de Dados** e **Machine Learning** onde já possuo um bom conhecimento na área. Também posuo formação técnica básica em desenvolvimento web (HTML, CSS e PHP) e atualmente foco na aplicação de modelos preditivos, manipulação de dados e automação com Python.
+🔬 **Doutor em Física da Matéria Condensada pela Universidade Federal do Ceará (UFC)** com transição estratégica para a área de **Ciência de Dados** e **Machine Learning** onde já possuo um bom conhecimento na área. Também possuo formação técnica básica em desenvolvimento web (HTML, CSS e PHP) e atualmente foco na aplicação de modelos preditivos, manipulação de dados e automação com Python.
 
 ---
 
