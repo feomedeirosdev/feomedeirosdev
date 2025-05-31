@@ -1,11 +1,11 @@
 ### Me chamo Fabio Medeiros
 
-🔬 **Doutor em Física da Matéria Condensada pela Universidade Federal do Ceará (UFC)** com transição estratégica para a área de **Ciência de Dados** e **Machine Learning** onde já possuo um bom conhecimento na área. Também possuo formação técnica básica em desenvolvimento web (HTML, CSS e PHP) e atualmente foco na aplicação de modelos preditivos, manipulação de dados e automação com Python.
+**Doutor em Física da Matéria Condensada pela Universidade Federal do Ceará (UFC)** com transição estratégica para a área de **Ciência de Dados** e **Machine Learning** onde já possuo um bom conhecimento na área. Também possuo formação técnica básica em desenvolvimento web (HTML, CSS e PHP) e atualmente foco na aplicação de modelos preditivos, manipulação de dados e automação com Python.
 
 ---
 
 ### 🧠 Sobre mim
-- 🧪 Físico entusiasta do conhecimento aplicado
+- 🔬 Físico entusiasta do conhecimento aplicado
 - 💻 Cientista de dados em formação com projetos práticos de ML
 - 🧱 Base em Python, Pandas e SQL
 - ⚙️ Explorando Machine Learning, automação de processos e Agentes de IA
@@ -13,7 +13,7 @@
 
 ---
 
-### 📚 Formação acadêmica
+### Formação acadêmica
 - 🎓 **Doutorado em Física da Matéria Condensada** – UFC (2025)
 - 🎓 **Mestrado em Física** – UFC (2019)
 - 🎓 **Bacharelado em Física** – UFC (2014)
@@ -50,10 +50,11 @@
 ---
 
 ### 📫 Redes
-- 📚 [Currículo Lattes](http://lattes.cnpq.br/6736276625584069)
-- 💼 [LinkedIn](https://www.linkedin.com/in/fabio-medeiros-708567262)
-- 🔗 [ORCID](https://orcid.org/0000-0001-6128-2708)
-- 📷 [Instagram](https://www.instagram.com/dev_verso)  
+- [LinkedIn](https://www.linkedin.com/in/fabio-medeiros-708567262)
+- [Currículo](https://feomedeirosdev.github.io/cv-feomedeiros)
+- [CV Lattes](http://lattes.cnpq.br/6736276625584069)
+- [ORCID](https://orcid.org/0000-0001-6128-2708)
+- [Instagram](https://www.instagram.com/dev_verso)
   
 ---
 
