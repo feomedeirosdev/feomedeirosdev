@@ -1,0 +1,45 @@
+### --- LaTeX (Temporários de Compilação) ---
+*.aux
+*.log
+*.toc
+*.out
+*.fdb_latexmk
+*.fls
+*.synctex.gz
+*.bbl
+*.blg
+*.run.xml
+*.bcf
+*.lof
+*.lot
+*.nav
+*.snm
+*.vrb
+
+### --- Front-end & Node.js ---
+node_modules/
+dist/
+build/
+.env
+
+# Configurações de editores e SO
+.vscode/
+.DS_Store
+Thumbs.db
+
+### --- Imagens & Binários ---
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.ico
+*.svg
+*.pdf
+*.eps
+*.tiff
+
+### --- Logs & Temp ---
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
