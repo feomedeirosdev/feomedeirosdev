@@ -1,0 +1,101 @@
+/* Configurações de Página */
+@page {
+    margin: 1.5cm;
+    size: A4;
+}
+
+body {
+    background: #fff !important;
+    color: #000 !important;
+    font-size: 10pt;
+    padding: 0;
+}
+
+.container {
+    width: 100% !important;
+    max-width: 100% !important;
+    box-shadow: none !important;
+    margin: 0 !important;
+    padding: 0 !important;
+}
+
+/* Esconder elementos desnecessários na impressão */
+.tema-switcher, 
+.fa-whatsapp, 
+.fab, 
+.fas,
+footer {
+    display: none !important;
+}
+
+/* Ajustes de Tipografia */
+h1 {
+    font-size: 20pt;
+    margin-bottom: 5pt;
+    color: #000 !important;
+    text-transform: uppercase;
+}
+
+h2 {
+    font-size: 14pt;
+    border-bottom: 2pt solid #333 !important;
+    margin-top: 15pt;
+    margin-bottom: 8pt;
+    color: #000 !important;
+}
+
+h3 {
+    font-size: 11pt;
+    margin-bottom: 2pt;
+}
+
+.subtitle {
+    font-size: 12pt;
+    color: #333 !important;
+    font-weight: bold;
+}
+
+.contact-info {
+    border-bottom: 1pt solid #eee;
+    padding-bottom: 10pt;
+    margin-bottom: 15pt;
+    display: block !important; /* Força vertical ou horizontal simples */
+}
+
+.contact-info span {
+    display: inline-block;
+    margin-right: 15pt;
+}
+
+.contact-info a {
+    text-decoration: none;
+    color: #000 !important;
+}
+
+/* Gerenciamento de Quebra de Página */
+article {
+    page-break-inside: avoid; /* Evita que uma experiência seja cortada ao meio */
+    margin-bottom: 12pt;
+}
+
+ul {
+    margin-top: 5pt;
+}
+
+li {
+    margin-bottom: 2pt;
+}
+
+.skills-grid {
+    display: block !important; /* Melhor que grid para impressão */
+}
+
+.skills-grid div {
+    margin-bottom: 4pt;
+}
+
+/* Links em preto e sem sublinhado */
+a {
+    color: #000 !important;
+    text-decoration: none !important;
+}
